@@ -185,13 +185,13 @@
 // console.log( NaN || null && !3 && undefined || 5);
 // console.log(NaN || null );
 
- // let num = 50;
+
+// let num = 50;
 //
-// // while (num < 55){
-// //     console.log(num);
-// //     num++;
-// // }
-//
+// while (num < 55){
+//     console.log(num);
+//     num++;
+// }
 // do {
 //     console.log(num);
 //     num++;
@@ -239,3 +239,11 @@
  //         }
  //     }
  // }
+
+//Упражнение 1 задание 1
+let num = 5;
+while (num<10){
+    console.log(num);
+    num++;
+}
+//Упражнение 2 задание 2
