@@ -190,23 +190,28 @@
 //
 // while (num < 55){
 //     console.log(num);
-//     num++;
+//     num--;
 // }
 // do {
 //     console.log(num);
-//     num++;
+//     num--;
 // }
 // while(num < 55);
 
 // for (let i = 1; i < 10; i++){
 //     if (i === 6){
-//         // break;
-//         continue;
+//         break;
+//         //continue;
 //     }
 //     console.log(i);
 //
 // }
-
+// for (let i =20; i>=0; i--){
+//     if (i===13){
+//         break;
+//     }
+//     console.log(i);
+// }
 // for (let i=0; i<3; i++){
 //     console.log(i);
 //     for (let j=0; j<3; j++){
@@ -242,9 +247,15 @@
 
 //Упражнение 1 задание 1
 // let num = 5;
-// while (num<10){
+// while (num<11){
 //     console.log(num);
 //     num++;
 // }
-// //Упражнение 2 задание 2
-// УРА
+//Упражнение 1 задание 2
+// for (let i =20; i>=0; i--){
+//     if (i===13){
+//         break;
+//     }
+//     console.log(i);
+// }
+//Упражнение 1 задание 3
