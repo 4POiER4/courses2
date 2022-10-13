@@ -245,17 +245,46 @@
  //     }
  // }
 
-//Упражнение 1 задание 1
+// //Упражнение 1 задание 1
 // let num = 5;
 // while (num<11){
 //     console.log(num);
 //     num++;
 // }
-//Упражнение 1 задание 2
+// //Упражнение 1 задание 2
 // for (let i =20; i>=0; i--){
 //     if (i===13){
 //         break;
 //     }
 //     console.log(i);
 // }
-//Упражнение 1 задание 3
+// //Упражнение 1 задание 3
+// for (let i = 2; i<=10; i++){
+//     if (i % 2 == 0){
+//         console.log(i);
+//     }
+//
+// }
+//
+//Упражнение 1 задание 4
+
+// let i = 2;
+//
+// while (i <= 16) {
+//     if (i % 2 === 0) {
+//         i++;
+//         continue;
+//     } else {
+//         console.log(i);
+//     }
+//     i++;
+// }
+// упраженеие 1 задание5
+// const arrayOfNumbers = [];
+//
+// for (let i = 5; i < 11; i++) {
+//     arrayOfNumbers[i - 5] = i;
+// }
+//
+// console.log(arrayOfNumbers);
+// return arrayOfNumbers;
